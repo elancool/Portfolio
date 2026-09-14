@@ -1,4 +1,4 @@
-pic = "Images/profile-min.jpg"
+pic = "Images/profile-min1.jpg"
 desc = "Welcome to my Resume! Here you'll find my journey as a Mechanical Engineering student, showcasing my projects, experiences, and passion for technology!"
 about = "Hi! I'm Elan Mcclain, a freshman student at GT majoring in Mechanical Engineering. I enjoy tinkering of all kinds, on both mechanical and digital projects. "
 loc = "I currently live in Atlanta, Georgia, but am from Armuchee Georgia."
