@@ -1,0 +1,5 @@
+streamlit
+requests
+Pandas
+Pillow
+streamlit-stl
