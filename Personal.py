@@ -139,7 +139,7 @@ def hobbies():
             label_visibility="collapsed",
         )
         try:
-            st.image("Images/mycar.jpg", use_container_width=True)
+            st.image("Images/mycar1.jpg", use_container_width=True)
         except:
             st.write("Image not found")
 
@@ -152,7 +152,7 @@ def hobbies():
             label_visibility="collapsed",
         )
         try:
-            st.image("Images/bike.jpg", use_container_width=True)
+            st.image("Images/bike1.jpg", use_container_width=True)
         except:
             st.write("Image not found")
 
